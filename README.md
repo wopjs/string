@@ -1,13 +1,13 @@
-# @wopjs/template
+# @wopjs/string
 
-[![Docs](https://www.paka.dev/badges/v0/cute.svg)](https://www.paka.dev/npm/@wopjs/template)
+[![Docs](https://www.paka.dev/badges/v0/cute.svg)](https://www.paka.dev/npm/@wopjs/string)
 
-Collection of common utilities.
+Collection of common string utilities.
 
 ## Install
 
 ```
-npm add @wopjs/template
+npm add @wopjs/string
 ```
 
 ## License
